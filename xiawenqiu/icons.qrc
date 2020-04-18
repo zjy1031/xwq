@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/ooopic.ico</file>
+        <file>icons/aaa.jpg</file>
+        <file>icons/asd111.jpg</file>
+        <file>icons/a0.jpg</file>
+        <file>icons/a1.jpg</file>
+    </qresource>
+</RCC>
